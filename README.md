@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Strategic Portfolio Management (SPM) and Agile Project Portfolio Management (PPM) market is valued between **$6.8 billion and $9.8 billion** (scaling toward ~$16B–$17.8B by the early 2030s at an estimated 10%–14% CAGR). The sector is **moderately fragmented yet increasingly concentrated at the enterprise upper tier**, where established mega-cap and private equity-backed incumbents (Broadcom, IBM, Adobe, Atlassian, Planview) capture dominant enterprise spend, while modern specialist challengers (Dragonboat, Meisterplan) compete in focused agile and product operations niches.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Jira Align](https://www.atlassian.com/software/jira/align)**
-
-  **Enterprise agile planning and portfolio management** for SAFe and scaled agile frameworks. Connects strategy to execution across portfolios, programs, and teams. **Pricing**: Quote-only; enterprise contracts. **Free tier**: None. **Best for**: large enterprises running SAFe or similar scaled agile frameworks needing strategy-to-delivery traceability.
-
-
-
-- **[Planview](https://www.planview.com/)**
-
-  **Strategic Portfolio Management (SPM)** platform with capacity planning, financial governance, and scenario modeling. **Pricing**: Quote-only; enterprise subscriptions negotiated with sales, typically annual or multi-year commitments . **Free tier**: None. **Best for**: PMOs needing mature portfolio-to-project traceability, prioritization workflows, and capital visibility .
-
-
-
-- **[Targetprocess](https://www.targetprocess.com/)** (Apptio)
-
-  **Agile portfolio and work management** with customizable views for SAFe, LeSS, and Kanban. **Pricing**: Quote-only. **Free tier**: None. **Best for**: mid-market to enterprise organizations wanting flexible agile portfolio visualization.
-
-
-
-- **[Broadcom Rally](https://www.broadcom.com/)**
-
-  **Agile ALM and portfolio management** (formerly CA Agile Central). **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises with existing Broadcom investments needing agile planning at scale.
-
-
-
-- **[Digital.ai Agility](https://digital.ai/)**
-
-  **Agile planning and portfolio management** (formerly VersionOne). **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting enterprise agile planning with DevOps integration.
-
-
-
-- **[Clarity PPM](https://www.broadcom.com/)** (Broadcom)
-
-  **Enterprise project and portfolio management** with financial governance and resource planning. **Pricing**: Quote-only. **Free tier**: None. **Best for**: large enterprises needing formal PPM with investment oversight.
-
-
-
-- **[Dragonboat](https://www.dragonboat.io/)**
-
-  **Product operations and portfolio platform** with capacity planning and OKR alignment. **Pricing**: Quote-only. **Free tier**: None. **Best for**: product operations teams needing data-driven capacity allocation.
-
-
-
-- **[Meisterplan](https://meisterplan.com/)**
-
-  **Lean portfolio and resource management** with capacity planning and scenario simulation. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting lean PPM focused on resource capacity and project prioritization.
-
-
-
-- **[Workfront](https://www.workfront.com/)** (Adobe)
-
-  **Enterprise work management** with portfolio planning and resource management. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting unified work management across marketing, IT, and operations.
-
-
-
-- **[Portfolio for Jira](https://www.atlassian.com/software/jira)** (Advanced Roadmaps)
-
-  **Portfolio planning within Jira** for cross-team dependency mapping and scenario modeling. **Pricing**: Included with Jira Premium/Enterprise. **Free tier**: Limited on Jira Free. **Best for**: Jira-centric organizations wanting portfolio visibility without leaving the Atlassian ecosystem.
-
-
+| Product | Company Valuation / Revenue | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Broadcom Rally](https://www.broadcom.com/)** | **Broadcom Inc.** (Market Cap: ~$1.6T, Annual Revenue: ~$51B+) | Custom enterprise contract; baseline enterprise seats start at **~$50–$65/user/month** (annual contract required; custom quotes via Broadcom Sales/Partners) | **No free-forever plan**; offers requestable sales-led enterprise pilot / guided evaluation sandbox (typically 30 days upon sales qualification) | Enterprises with existing Broadcom/CA investments needing agile ALM and planning at scale |
+| **[Clarity PPM](https://www.broadcom.com/)** | **Broadcom Inc.** (Market Cap: ~$1.6T, Annual Revenue: ~$51B+) | AWS Marketplace / partner list pricing starts at **$660/user/year** (~$55/user/month) for Full Function Users; Restricted Users start at **$336/year** (~$28/user/month) | **No free-forever plan**; custom proof-of-concept (PoC) / guided demo sandbox available upon enterprise sales qualification (typically 14–30 days) | Large enterprises requiring formal PPM governance, financial accounting, and capital investment oversight |
+| **[Targetprocess](https://www.targetprocess.com/)** (Apptio) | **IBM** (Market Cap: ~$240B, Annual Revenue: ~$62B+) *(Acquired Apptio for $4.6B)* | Custom enterprise pricing; public framework/G-Cloud benchmarks start at **£12–£32 (~$15–$40)/user/month** (typically 10-user minimum commitment) | **No free-forever plan**; requestable 30-day guided enterprise trial available upon registration/sales contact | Mid-market to enterprise organizations wanting customizable agile portfolio visualization (SAFe, LeSS, Kanban) |
+| **[Workfront](https://www.workfront.com/)** | **Adobe** (Market Cap: ~$100B, Annual Revenue: ~$21B+) *(Acquired for $1.5B)* | Enterprise quote only; industry benchmarks for entry Select tier start at **~$30–$50/user/month** (billed annually, custom contracts) | **No self-serve free tier**; sales-assisted customized proof-of-concept / guided sandbox environment available for enterprise evaluations (typically 14–30 days) | Enterprises wanting unified work, project, and portfolio management across IT, PMO, and marketing |
+| **[Portfolio for Jira](https://www.atlassian.com/software/jira)** (Advanced Roadmaps) | **Atlassian** (Market Cap: ~$54B, Annual Revenue: ~$4.4B+) | Included in **Jira Cloud Premium** starting at **$14.50–$16.00/user/month** (sliding scale down to lower average per-seat cost at higher volumes) | **Free tier available**: Basic single-project roadmaps on Jira Free (up to 10 users, 2GB storage); full Advanced Roadmaps / Plans features require **30-day Jira Cloud Premium free trial** (up to 10,000 users) | Jira-centric teams wanting portfolio roadmapping and cross-project dependency mapping within Atlassian |
+| **[Jira Align](https://www.atlassian.com/software/jira/align)** | **Atlassian** (Market Cap: ~$54B, Annual Revenue: ~$4.4B+) | Sold via Atlassian Strategy Collection; base tier starts at **$77,400/year** (covers 1–50 users, effective ~$129/user/month at 50 seats; requires underlying Jira Premium/Enterprise) | **No self-service free tier or trial**; Atlassian provides guided enterprise Launchpad evaluation environments and custom demo walkthroughs upon sales engagement | Global enterprises implementing scaled agile frameworks (SAFe, LeSS, Spotify) requiring strategy-to-delivery alignment |
+| **[Planview](https://www.planview.com/)** | **TPG / TA Associates** (Valuation: $1.6B at buyout, Annual Revenue: ~$410M+) | Enterprise quote; annual enterprise deployments typically start at **$50,000+/year** (team-level tools like AgilePlace / ProjectPlace start at ~$19–$29/user/month) | **No free-forever plan**; **30-day fully functional free trial** available for Planview ProjectPlace and AgilePlace (unlimited projects/boards; enterprise Portfolios requires guided sales demo) | Enterprise PMOs needing mature portfolio traceability, capacity heatmaps, scenario modeling, and capital governance |
+| **[Digital.ai Agility](https://digital.ai/)** | **TPG Capital** (Valuation: Private, Annual Revenue: ~$140M–$230M) | Quote-based enterprise subscription; baseline user tiers historically benchmarked starting at **~$29/user/month** (annual contract required) | **No free-forever plan**; requestable 14 to 30-day evaluation trial under Software Evaluation Agreement upon sales approval | Organizations needing enterprise agile planning tightly integrated with DevOps release orchestration |
+| **[Dragonboat](https://www.dragonboat.io/)** | **Dragonboat.io** (Valuation: ~$50M–$100M venture-backed, ARR: ~$3M–$5M, $15M funding) | Custom quote subscription; entry-tier creator seats historically benchmarked at **~$49–$99/user/month** (billed annually) | **No free-forever plan for creators**; includes up to **100 free view/requestor stakeholder seats**; offers 14-day requestable free trial upon demo setup | Product operations and product management teams requiring data-driven capacity allocation and OKR alignment |
+| **[Meisterplan](https://meisterplan.com/)** | **itdesign GmbH** (Annual Revenue: ~$25M; Meisterplan unit ARR: ~$4.6M) | Resource-based pricing; Basic tier starts at **$600/month** (flat rate covering up to 50 active resources with unlimited free login users; ~$12/resource/month equivalent) | **30-day fully functional free trial** (no credit card required; full access to Pro Edition features and scenario planning) | Organizations seeking lean project portfolio management centered strictly on resource capacity planning and prioritization |
 
 ## Open-Source GitHub Projects
 
