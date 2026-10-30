@@ -1,48 +1,58 @@
-# Awesome-Agile-Portfolio-Management
+# Awesome Agile Portfolio Management 🚀
 
-# Awesome-Agile-Portfolio-Management
+<div align="center">
 
-**Top Agile Portfolio Management (Opensource) 🌟 Star if you like it! 🌟**
+<a href="https://github.com/ishandutta2007/Awesome-Agile-Portfolio-Management">
+  <img src="assets/banner.svg" alt="Awesome Agile Portfolio Management Banner" width="100%" />
+</a>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agile-Portfolio-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Agile-Portfolio-Management?style=flat-square&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agile-Portfolio-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Agile-Portfolio-Management?style=flat-square&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Agile-Portfolio-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>Curated guide to Strategic Portfolio Management (SPM), Lean Portfolio Management (LPM), Scaled Agile (SAFe), Capacity Planning &amp; Enterprise Project Portfolio Governance.</strong>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  🌟 <em>Star this repository if you find it valuable!</em> 🌟
+</p>
 
-*Focused on Lean Portfolio Management, Capacity Planning, Strategic Alignment & SAFe Program Boards*
+</div>
 
-**Last updated: October 2026**
+---
 
+## 📑 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ Enterprise SaaS Platforms](#️-enterprise-saas-platforms)
+- [💻 Open-Source Platforms & Projects](#-open-source-platforms--projects)
+- [🧩 Frameworks for Custom Portfolio Stacks](#-frameworks-for-custom-portfolio-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Agile Portfolio Management**. These tools enable organizations to connect strategy to execution—prioritizing investments, allocating capacity across teams, managing dependencies, and governing agile delivery at scale—from fully managed enterprise platforms with scenario modeling and financial governance to self-hosted project suites that give organizations complete control over their portfolio data and workflows.
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
+The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfolio Management (PPM)** software market is valued between **$6.8 billion and $9.8 billion**, on a rapid trajectory to exceed **$16.0B–$17.8B by the early 2030s** at an estimated **10%–14% CAGR**.
 
-**Examples** include Jira Align, Planview, Targetprocess, Broadcom Rally, Digital.ai Agility, Clarity PPM, Dragonboat, Meisterplan, Workfront, and Portfolio for Jira (the category leaders in commercial space).
+### 📊 Market Concentration vs Fragmentation
+* **Moderately fragmented yet heavily concentrated at the enterprise upper tier:** Tier-1 enterprise spend is anchored by mega-cap infrastructure leaders and private-equity software powerhouses (Broadcom, IBM, Adobe, Atlassian, Planview) that deliver end-to-end strategic roadmapping, capital budgeting, and SAFe Program (PI) boards.
+* **Specialist agility & product ops challengers:** Mid-market organizations and product teams increasingly deploy agile-native specialists (such as Dragonboat and Meisterplan) to solve real-time resource bottlenecks and OKR alignment.
+* **Open-source self-hosted landscape:** Open-source platforms (such as OpenProject, Focalboard, and Plane) provide complete data sovereignty and agile execution, though pure Lean Portfolio Management ceremonies and capital scenario planning remain rare outside enterprise commercial tools.
 
+---
 
+## ☁️ Enterprise SaaS Platforms
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, portfolio governance, and open agile planning infrastructure. **Critical note**: True open-source agile portfolio management—with SAFe program boards, capacity heatmaps, and financial scenario modeling—is extremely sparse. The projects below provide **project/portfolio management platforms** with agile planning capabilities, **SAFe scaling boards**, or **governance-focused PPM tools**. None replicate the depth of Jira Align or Planview for enterprise lean portfolio management.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Strategic Portfolio Management (SPM) and Agile Project Portfolio Management (PPM) market is valued between **$6.8 billion and $9.8 billion** (scaling toward ~$16B–$17.8B by the early 2030s at an estimated 10%–14% CAGR). The sector is **moderately fragmented yet increasingly concentrated at the enterprise upper tier**, where established mega-cap and private equity-backed incumbents (Broadcom, IBM, Adobe, Atlassian, Planview) capture dominant enterprise spend, while modern specialist challengers (Dragonboat, Meisterplan) compete in focused agile and product operations niches.
-
-## SaaS/Hosted Platforms
+> Below is a breakdown of category-leading Agile Portfolio Management and SPM SaaS solutions, sorted in descending order by parent company valuation / market capitalization.
 
 | Product | Company Valuation / Revenue | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Best For |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,96 +67,155 @@ The global Strategic Portfolio Management (SPM) and Agile Project Portfolio Mana
 | **[Dragonboat](https://www.dragonboat.io/)** | **Dragonboat.io** (Valuation: ~$50M–$100M venture-backed, ARR: ~$3M–$5M, $15M funding) | Custom quote subscription; entry-tier creator seats historically benchmarked at **~$49–$99/user/month** (billed annually) | **No free-forever plan for creators**; includes up to **100 free view/requestor stakeholder seats**; offers 14-day requestable free trial upon demo setup | Product operations and product management teams requiring data-driven capacity allocation and OKR alignment |
 | **[Meisterplan](https://meisterplan.com/)** | **itdesign GmbH** (Annual Revenue: ~$25M; Meisterplan unit ARR: ~$4.6M) | Resource-based pricing; Basic tier starts at **$600/month** (flat rate covering up to 50 active resources with unlimited free login users; ~$12/resource/month equivalent) | **30-day fully functional free trial** (no credit card required; full access to Pro Edition features and scenario planning) | Organizations seeking lean project portfolio management centered strictly on resource capacity planning and prioritization |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source Platforms & Projects
 
+> Curated open-source portfolio and agile management platforms, **sorted in descending order by GitHub Star count**. Each badge displays live star counts and directly links to the project's GitHub stargazers page.
 
-- **[OpenProject](https://github.com/opf/openproject)**
+- ### ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+  - **Description**: Fast-growing modern open-source project management platform positioned as an extensible, developer-friendly alternative to Jira, Linear, and Monday.
+  - **Features**: Sprints/cycles, modules, issue triage, project analytics, burn-down metrics, and rich-text docs with collaborative pages.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: Next.js, TypeScript, Python, PostgreSQL, Redis
+  - **Deployment**: Docker, Kubernetes, Plane Cloud
+  - **Portfolio Role**: Team-level issue tracking and release sprints; pairs well with higher-level portfolio dashboards.
 
-  **Leading open source project management software for product, project and portfolio management** (GPL-3.0) — **the most comprehensive open-source option for agile portfolio management** with enterprise-grade features and a mature community . **Features**: **Project and portfolio management** across multiple projects; **Agile boards (Kanban, Scrum, SAFe)**; product and release planning with roadmaps; Gantt charts for scheduling; time tracking, cost reporting, and budgeting; wikis, forums, and meeting management; baseline comparison; integrations with Nextcloud, GitHub, GitLab, and more . **Adoption**: Trusted by Deutsche Bahn, Fraunhofer Institut, Deutsches Museum, and the European Commission; part of the openDesk sovereign workplace suite . **Tech stack**: Ruby on Rails, PostgreSQL. **Deploy**: Self-hosted (Docker, package installers) or OpenProject Cloud. **Trade-off**: **Community Edition lacks Enterprise add-ons** (advanced security, premium integrations, portfolio/resource management features are gated) . Heavier than lightweight agile tools; intended for organizations needing governance and portfolio views. **Best for**: enterprises, public institutions, and teams wanting a Jira/Monday alternative with true portfolio management, SAFe boards, and budgets—self-hosted with full data sovereignty.
+- ### 📋 **[Focalboard](https://github.com/mattermost/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)
+  - **Description**: Open-source, multilingual alternative to Trello, Notion, and Asana created by Mattermost for tracking projects across cross-functional teams.
+  - **Features**: Kanban boards, table views, calendar schedules, gallery views, task card attributes, multi-board dashboarding, and role-based permissions.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: Go, TypeScript, React, PostgreSQL/SQLite
+  - **Deployment**: Standalone server, Mattermost integration, Docker
+  - **Portfolio Role**: Cross-team initiative boards, program milestone tracking, and shared delivery views.
 
+- ### 🗂️ **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+  - **Description**: Distributed FLOSS Kanban board platform with extensive swimlane and board-of-boards capabilities.
+  - **Features**: Multi-board views, swimlanes for cross-team tracking, custom fields, rule-based automation, time tracking, LDAP/SSO authentication.
+  - **License**: MIT
+  - **Tech Stack**: Meteor, Node.js, MongoDB
+  - **Deployment**: Docker, Snap, Source
+  - **Portfolio Role**: Program-level visual coordination, cross-department Kanban boards, and work-in-progress (WIP) limit enforcement.
 
+- ### 🏢 **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+  - **Description**: Leading sovereign open-source project and portfolio management software with native multi-project hierarchies and enterprise governance.
+  - **Features**: Enterprise multi-project portfolios, SAFe/Agile boards, interactive Gantt timelines, roadmapping, resource capacity allocation, cost reporting, and budgeting.
+  - **License**: GPL-3.0
+  - **Tech Stack**: Ruby on Rails, Angular, PostgreSQL
+  - **Deployment**: Docker, Helm chart, Debian/RPM packages, OpenProject Cloud
+  - **Portfolio Role**: The most complete open-source equivalent for enterprise PMO portfolio oversight, budget compliance, and SAFe program management.
 
-- **[LibrePlan](https://www.libreplan.org/)**
+- ### 📊 **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+  - **Description**: Modern, lightweight, and elegant open-source Kanban tracking system designed for agile teams and project boards.
+  - **Features**: Real-time card updates, markdown descriptions, custom labels, background customization, attachments, user mentions, and project grouping.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: React, Redux, Node.js, PostgreSQL
+  - **Deployment**: Docker, Docker Compose
+  - **Portfolio Role**: Fast departmental tracking and project-level kanban execution.
 
-  **Web-based project and portfolio management platform** (AGPL-3.0) — **a governance-focused option for public sector and regulated environments** . **Features**: **Project and portfolio planning**; resource allocation and capacity management; issue and risk tracking; project governance and transparency; milestone monitoring; auditability through self-hosted infrastructure . **Version 1.6.0** adds issue/risk log management, document repositories, project pipeline overview, and expanded translations . **Tech stack**: Java. **Deploy**: Self-hosted (Docker images available). **Trade-off**: **Public-sector and governance orientation**—less agile-native than OpenProject. No SAFe program boards or lean portfolio ceremonies. UI may feel dated compared to modern SaaS tools. **Best for**: public administrations, NGOs, and educational institutions wanting sovereign portfolio governance without SaaS dependency.
+- ### 🎯 **[Leantime](https://github.com/leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
+  - **Description**: Strategic and goal-focused open-source project management platform built to bridge strategy, ideation, and execution.
+  - **Features**: Strategy boards (Lean Canvas), strategic milestone roadmaps, OKR tracking, idea management, Gantt charts, sprint planning, and ADHD-friendly accessibility features.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: PHP, JavaScript, MySQL
+  - **Deployment**: Docker, LAMP stack
+  - **Portfolio Role**: Strategic alignment, OKR-to-project mapping, and early-stage lean portfolio validation.
 
+- ### 📌 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
+  - **Description**: Minimalist, fast, and dependency-light visual task board system focusing on simplicity and flow.
+  - **Features**: Kanban boards, swimlanes, subtasks, automated board actions, analytics (CFD, burn-down), and plugin ecosystem.
+  - **License**: MIT
+  - **Tech Stack**: PHP, SQLite/PostgreSQL/MySQL
+  - **Deployment**: Docker, single archive install
+  - **Portfolio Role**: Lightweight work stream coordination across autonomous service teams.
 
+- ### ⛏️ **[Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+  - **Description**: Veteran, highly extensible open-source project management web application with multi-project tracking capabilities.
+  - **Features**: Multi-project management, role-based access control, issue tracking, Gantt charts, calendars, time logging, and rich plugin directory for agile boards.
+  - **License**: GPL-2.0
+  - **Tech Stack**: Ruby on Rails, MySQL/PostgreSQL/SQLite
+  - **Deployment**: Docker, native source install
+  - **Portfolio Role**: Stable, multi-project IT portfolio governance and cross-system issue tracking.
 
-- **[Kendis](https://hub.docker.com/r/kendisdocker/kendis)**
+- ### ⏱️ **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+  - **Description**: Modern end-to-end open-source task and project management suite with clean UI and multi-view flexibility.
+  - **Features**: List, Kanban, Gantt, and table views; subtasks; labels; team namespaces; reminders; and comprehensive REST API.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: Go, Vue.js, SQLite/PostgreSQL/MySQL
+  - **Deployment**: Docker, binary release
+  - **Portfolio Role**: Distributed team task portfolios and cross-project initiative delivery.
 
-  **Agile Scaling Platform with real-time program board** (Docker image, license per vendor) — **the most purpose-built open-source option for SAFe program-level planning** . **Features**: Specialized boards for **SAFe®, Spotify Model, Nexus, LeSS, Scrum @Scale**, or custom scaling models; **real-time program board with dependencies management**; capability of "real-time" planning—teams drag features to sprints and create stories; visual management of dependencies between features across all teams; feature progress visualization across sprints and teams; tracking external vendors and milestones . **Integration**: 2-way integration with Atlassian Jira (Cloud, Server, Data Center) and Microsoft Azure DevOps/TFS . **Deploy**: Docker (`docker pull kendisdocker/kendis`). **Trade-off**: **Kendis itself is proprietary/commercial**—the Docker image is a distribution method, not an open-source license. It is included here as the closest tool to SAFe program board functionality, but **it is not open source**. No portfolio-level financial planning or capacity heatmaps. **Best for**: SAFe organizations wanting a real-time program board with Jira/Azure DevOps integration—**verify licensing terms before adoption**.
+- ### 🌲 **[Taiga](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
+  - **Description**: Open-source agile project management platform designed for cross-functional teams with Scrum and Kanban workflows.
+  - **Features**: Scrum boards, sprint backlogs, epics management, user story estimation, WIP limits, wiki, and real-time dashboard analytics.
+  - **License**: MPL-2.0
+  - **Tech Stack**: Python (Django), AngularJS/React, PostgreSQL, Docker
+  - **Deployment**: Docker Compose, Taiga Cloud
+  - **Portfolio Role**: Agile delivery execution and team-level Scrum/Kanban backlogs.
 
+- ### 🏛️ **[LibrePlan](https://github.com/LibrePlan/libreplan)** [![GitHub stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
+  - **Description**: Governance-oriented open-source web application for enterprise project and resource planning.
+  - **Features**: Multi-project planning, company-wide resource allocation, milestone tracking, risk registers, project pipeline management, and audit trails.
+  - **License**: AGPL-3.0
+  - **Tech Stack**: Java, Spring, PostgreSQL
+  - **Deployment**: Docker, Tomcat
+  - **Portfolio Role**: Public sector and regulated environment portfolio governance with deterministic scheduling.
 
-
-- **[Plane](https://github.com/makeplane/plane)**
-
-  **Modern project management platform** (AGPL-3.0 for Community Edition) — **a fast-growing open-source Jira/Linear alternative** . **Features**: Work items, cycles (sprints), modules, and views; rich text Pages with AI capabilities; analytics and burn-down charts; custom filters and saved views . **Tech stack**: Next.js, TypeScript, PostgreSQL. **Deploy**: Self-hosted (Docker) or Plane Cloud. **Trade-off**: **Optimized for team-level issue tracking, not portfolio governance**—no SAFe program boards, capacity planning, or financial modeling. Closer to Linear than Jira Align. **Best for**: software teams wanting a modern, fast issue tracker with agile cycles—not enterprise portfolio management.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Tuleap** — Open-source ALM and agile management tool (GPL-3.0). Comprehensive ALM with customizable workflows. **Note**: Listed as a Jira Align alternative and Meisterplan alternative . Strong on development lifecycle, less on portfolio-level capacity planning. **Best for**: development teams wanting open-source ALM with agile planning.
-
-- **Taiga** — Agile project management (MPL-2.0 and AGPL-3.0). Scrum and Kanban focus. **Note**: Listed as a Meisterplan alternative . Team-level agile execution, not portfolio governance. **Best for**: Scrum teams wanting open-source agile tooling.
-
-- **Redmine (enhanced)** — Open-source project management (GPL). Highly customizable with plugins. **Note**: Requires self-maintenance and plugin management; UI and integration experience less polished than commercial alternatives . **Best for**: technical teams willing to invest in customization and maintenance.
-
-
-
-**Frameworks for building custom systems**: Combine **OpenProject** as the portfolio and agile planning backbone with **LibrePlan** for governance-focused public sector planning, **Plane** for team-level agile execution, and **Kendis** (if commercial licensing is acceptable) for SAFe program boards with Jira integration—creating an agile portfolio stack. **None of these replicate the enterprise lean portfolio management depth** of Jira Align or Planview; organizations needing SAFe portfolio ceremonies, financial guardrails, and capacity heatmaps will require commercial platforms.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Agile portfolio management platforms handling strategic and financial data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for confidential planning information.
-
-- **The "enterprise agile portfolio platform" vs. "project/portfolio management suite" vs. "team-level agile tool" distinction is critical.** **Jira Align, Planview, Targetprocess, Rally, Digital.ai Agility, Clarity PPM, Dragonboat, Meisterplan, and Workfront** are **enterprise portfolio platforms**—they provide capacity planning, financial governance, and SAFe portfolio ceremonies. **OpenProject and LibrePlan** are **project/portfolio management suites**—they combine agile boards with portfolio views and budgets, but lack the lean portfolio management depth of Jira Align. **Plane and Taiga** are **team-level agile tools**—issue tracking and sprints, not portfolio governance. **Kendis** is a **SAFe program board**—but it is **proprietary**, not open source . **No open-source project replicates Jira Align or Planview for enterprise lean portfolio management.**
-
-- **OpenProject is the most mature open-source option for portfolio and agile planning.** It combines portfolio views, SAFe boards, roadmaps, Gantt charts, and budgets in one platform, is trusted by major European institutions, and has been in development since 2012 . **The trade-off**: Community Edition gates portfolio/resource management features behind Enterprise tiers , and the platform is heavier than lightweight agile tools.
-
-- **LibrePlan is the choice for public sector governance**, with project and portfolio planning, resource allocation, and auditability . **The trade-off**: it is not agile-native—no SAFe program boards, no lean portfolio ceremonies. It is PPM with governance, not agile portfolio management.
-
-- **Kendis is included as the closest SAFe program board**, but **it is not open source**—it is a commercial product distributed as a Docker image . **Do not adopt it expecting open-source licensing.** Verify terms with the vendor.
-
-- **Plane is a team-level tool, not a portfolio platform.** It is excellent for issue tracking and sprints, but it has no capacity planning, financial modeling, or SAFe portfolio features . **Do not confuse a modern Jira alternative with Jira Align.**
-
-- **Pricing opacity is universal across commercial vendors.** Jira Align, Planview, Targetprocess, Rally, Digital.ai, Clarity PPM, Dragonboat, Meisterplan, and Workfront all require sales contact. OpenProject publishes transparent Enterprise pricing (Basic €5.95/user/month, Professional €10.95, Premium €15.95) . **Validate with direct vendor conversations against your portfolio size and governance needs.**
-
-- Self-hosted open-source solutions require proper server setup, security hardening, backup configuration, and ongoing maintenance. **Portfolio data is strategically sensitive**—ensure your deployment meets your organization's security and confidentiality requirements before storing planning data.
-
-
+- ### 🚢 **[Kendis (Scaling Container)](https://hub.docker.com/r/kendisdocker/kendis)**
+  - **Description**: Enterprise agile scaling platform with real-time Program Board for SAFe, Spotify, and LeSS models *(Proprietary engine distributed via Docker)*.
+  - **Features**: Visual Program Boards, 2-way Jira / Azure DevOps synchronization, cross-team dependency mapping, and PI planning ceremonies.
+  - **Deployment**: Docker (`docker pull kendisdocker/kendis`)
+  - **Note**: Proprietary commercial software distributed as a container; verify vendor licensing before deployment.
 
 ---
 
+## 🧩 Frameworks for Custom Portfolio Stacks
 
+Can an enterprise assemble an open-source Agile Portfolio Management platform?
+1. **Portfolio Backbone & Governance**: Use **OpenProject** for strategic hierarchy, enterprise multi-project budgets, resource heatmaps, and executive reporting.
+2. **Strategy & OKR Linkage**: Integrate **Leantime** to map executive OKRs and Lean Canvas initiatives into actionable goals.
+3. **Team-Level Agile Execution**: Deploy **Plane** or **Taiga** for fast developer sprints, cycle tracking, and issue workflows.
+4. **Visual Program Boards & Dependencies**: Leverage **Focalboard** or **Wekan** (or **Kendis** container if commercial terms permit) to map cross-team dependencies during Program Increment (PI) planning.
 
-**Made for developers, PMO teams, and organizations building transparent agile portfolio management solutions.**
+---
 
-Let's make Agile Portfolio Management more open, data-driven, and strategy-aligned.
+## 🤝 How to Contribute
+
+Contributions are welcome! Help us keep this curated directory comprehensive, accurate, and up to date:
+
+1. **Fork** this repository.
+2. **Add/Update** your tool entry in `README.md` (keep entries objective, factual, and strictly follow the established table/list formatting).
+3. **Include**: Product name, official link, 1–2 sentence description, open-source license (if applicable), and clear deployment options.
+4. **Submit a Pull Request** with a concise description of your update.
+
+---
+
+## ☕ Support
+
+If you found this curated list helpful for your enterprise architecture, PMO research, or open-source tooling evaluations, please consider supporting the project:
+
+- 🌟 **Star this repository** to improve visibility across the GitHub developer ecosystem!
+- 🍴 **Fork and share** with your agile coaching, engineering leadership, and product operations networks.
+- ☕ **Buy a coffee & sponsor** ongoing maintenance through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for helping keep agile portfolio management open, transparent, and accessible to everyone! ❤️
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Agile-Portfolio-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Agile-Portfolio-Management&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated directory intended solely for educational, evaluation, and architectural research purposes.
+- Mentions of commercial and SaaS platforms (such as Jira Align, Planview, Broadcom Rally, Workfront, and Targetprocess) do not constitute formal endorsements.
+- Portfolio platforms handle highly confidential strategic roadmap, financial allocation, and organizational capacity data. Ensure any self-hosted or SaaS deployment adheres to strict security, role-based access control (RBAC), and regulatory standards (GDPR, SOC 2, ISO 27001).
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ for developers, PMO leaders, agile coaches, and engineering organizations worldwide.</sub>
+</div>
