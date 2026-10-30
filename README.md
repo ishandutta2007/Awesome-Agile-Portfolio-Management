@@ -71,9 +71,9 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
 
 ## 💻 Open-Source Platforms & Projects
 
-> Curated open-source portfolio and agile management platforms, **sorted in descending order by GitHub Star count**. Each badge displays live star counts and directly links to the project's GitHub stargazers page.
+> Curated open-source portfolio and agile management platforms, **sorted in descending order by GitHub Stars_Count**. Each badge displays live Stars_Counts and directly links to the project's GitHub stargazers page.
 
-- ### ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+- ### ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
   - **Description**: Fast-growing modern open-source project management platform positioned as an extensible, developer-friendly alternative to Jira, Linear, and Monday.
   - **Features**: Sprints/cycles, modules, issue triage, project analytics, burn-down metrics, and rich-text docs with collaborative pages.
   - **License**: AGPL-3.0
@@ -81,7 +81,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, Kubernetes, Plane Cloud
   - **Portfolio Role**: Team-level issue tracking and release sprints; pairs well with higher-level portfolio dashboards.
 
-- ### 📋 **[Focalboard](https://github.com/mattermost/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)
+- ### 📋 **[Focalboard](https://github.com/mattermost/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)
   - **Description**: Open-source, multilingual alternative to Trello, Notion, and Asana created by Mattermost for tracking projects across cross-functional teams.
   - **Features**: Kanban boards, table views, calendar schedules, gallery views, task card attributes, multi-board dashboarding, and role-based permissions.
   - **License**: AGPL-3.0
@@ -89,7 +89,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Standalone server, Mattermost integration, Docker
   - **Portfolio Role**: Cross-team initiative boards, program milestone tracking, and shared delivery views.
 
-- ### 🗂️ **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+- ### 🗂️ **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
   - **Description**: Distributed FLOSS Kanban board platform with extensive swimlane and board-of-boards capabilities.
   - **Features**: Multi-board views, swimlanes for cross-team tracking, custom fields, rule-based automation, time tracking, LDAP/SSO authentication.
   - **License**: MIT
@@ -97,7 +97,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, Snap, Source
   - **Portfolio Role**: Program-level visual coordination, cross-department Kanban boards, and work-in-progress (WIP) limit enforcement.
 
-- ### 🏢 **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+- ### 🏢 **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
   - **Description**: Leading sovereign open-source project and portfolio management software with native multi-project hierarchies and enterprise governance.
   - **Features**: Enterprise multi-project portfolios, SAFe/Agile boards, interactive Gantt timelines, roadmapping, resource capacity allocation, cost reporting, and budgeting.
   - **License**: GPL-3.0
@@ -105,7 +105,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, Helm chart, Debian/RPM packages, OpenProject Cloud
   - **Portfolio Role**: The most complete open-source equivalent for enterprise PMO portfolio oversight, budget compliance, and SAFe program management.
 
-- ### 📊 **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+- ### 📊 **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
   - **Description**: Modern, lightweight, and elegant open-source Kanban tracking system designed for agile teams and project boards.
   - **Features**: Real-time card updates, markdown descriptions, custom labels, background customization, attachments, user mentions, and project grouping.
   - **License**: AGPL-3.0
@@ -113,7 +113,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, Docker Compose
   - **Portfolio Role**: Fast departmental tracking and project-level kanban execution.
 
-- ### 🎯 **[Leantime](https://github.com/leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
+- ### 🎯 **[Leantime](https://github.com/leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
   - **Description**: Strategic and goal-focused open-source project management platform built to bridge strategy, ideation, and execution.
   - **Features**: Strategy boards (Lean Canvas), strategic milestone roadmaps, OKR tracking, idea management, Gantt charts, sprint planning, and ADHD-friendly accessibility features.
   - **License**: AGPL-3.0
@@ -121,7 +121,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, LAMP stack
   - **Portfolio Role**: Strategic alignment, OKR-to-project mapping, and early-stage lean portfolio validation.
 
-- ### 📌 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
+- ### 📌 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
   - **Description**: Minimalist, fast, and dependency-light visual task board system focusing on simplicity and flow.
   - **Features**: Kanban boards, swimlanes, subtasks, automated board actions, analytics (CFD, burn-down), and plugin ecosystem.
   - **License**: MIT
@@ -129,7 +129,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, single archive install
   - **Portfolio Role**: Lightweight work stream coordination across autonomous service teams.
 
-- ### ⛏️ **[Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+- ### ⛏️ **[Redmine](https://github.com/redmine/redmine)** [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
   - **Description**: Veteran, highly extensible open-source project management web application with multi-project tracking capabilities.
   - **Features**: Multi-project management, role-based access control, issue tracking, Gantt charts, calendars, time logging, and rich plugin directory for agile boards.
   - **License**: GPL-2.0
@@ -137,7 +137,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, native source install
   - **Portfolio Role**: Stable, multi-project IT portfolio governance and cross-system issue tracking.
 
-- ### ⏱️ **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+- ### ⏱️ **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
   - **Description**: Modern end-to-end open-source task and project management suite with clean UI and multi-view flexibility.
   - **Features**: List, Kanban, Gantt, and table views; subtasks; labels; team namespaces; reminders; and comprehensive REST API.
   - **License**: AGPL-3.0
@@ -145,7 +145,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker, binary release
   - **Portfolio Role**: Distributed team task portfolios and cross-project initiative delivery.
 
-- ### 🌲 **[Taiga](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
+- ### 🌲 **[Taiga](https://github.com/taigaio/taiga-docker)** [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
   - **Description**: Open-source agile project management platform designed for cross-functional teams with Scrum and Kanban workflows.
   - **Features**: Scrum boards, sprint backlogs, epics management, user story estimation, WIP limits, wiki, and real-time dashboard analytics.
   - **License**: MPL-2.0
@@ -153,7 +153,7 @@ The global **Strategic Portfolio Management (SPM)** and **Agile Project Portfoli
   - **Deployment**: Docker Compose, Taiga Cloud
   - **Portfolio Role**: Agile delivery execution and team-level Scrum/Kanban backlogs.
 
-- ### 🏛️ **[LibrePlan](https://github.com/LibrePlan/libreplan)** [![GitHub stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
+- ### 🏛️ **[LibrePlan](https://github.com/LibrePlan/libreplan)** [![GitHub_Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
   - **Description**: Governance-oriented open-source web application for enterprise project and resource planning.
   - **Features**: Multi-project planning, company-wide resource allocation, milestone tracking, risk registers, project pipeline management, and audit trails.
   - **License**: AGPL-3.0
